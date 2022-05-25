@@ -1,4 +1,4 @@
-## CCP: Configurable Crowd Profiles
+## Configurable Crowd Profiles
 ![Teaser](https://user-images.githubusercontent.com/94784611/170231686-6433104d-4ce2-43d5-9bb7-5461ad25f6a8.jpg)
 _Andreas Panayiotou, Theodoros Kyriakou,_
 <a href="https://marilenalemonari.github.io/" style="color: black; text-decoration: none;text-decoration-style: none;">_Marilena Lemonari_</a>,
