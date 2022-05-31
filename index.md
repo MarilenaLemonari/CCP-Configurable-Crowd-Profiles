@@ -17,3 +17,6 @@ Diversity among agents' behaviors and heterogeneity in virtual crowds in general
 ### Materials:
 <img src="https://user-images.githubusercontent.com/94784611/170232148-224a3d29-5b06-4116-a323-8d5aecf2326f.png" width="20" height="20" /> [Video](https://www.youtube.com/watch?v=k5SAOnisBas)  
 <img src="https://user-images.githubusercontent.com/94784611/170233045-f2d31fd8-15d7-402c-a522-121523110928.png" width="20" height="20" /> [Code/Data/Trained Policies](https://github.com/veupnea/CCP)
+
+### News:
+- [CYENS blog](https://www.cyens.org.cy/en-gb/media/blog/may-2022/new-learning-based-method-to-model-crowd-behaviour/?page=7)
